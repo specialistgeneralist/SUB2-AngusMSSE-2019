@@ -1,8 +1,12 @@
 A Statistical Timetable for the sub-2 hour Marathon
 ===================================================
 
-*Simon D. Angus, MSSE 2019*
+*(To appear in MSSE, 2019)*
+
+*Author: Simon D. Angus*
+
 *Dept. of Economics, Monash University*
+
 *Melbourne, Australia.*
 
 ## Requirements
